@@ -11,6 +11,12 @@
         📫 How to reach me: email: rithick.akv@gmail.com <br>
 </div>
 
+<div align="center>
+   ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rithickpanp) 
+
+</div>
+
 <div align="center">
     <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" style="width: 300px;margin-right: 60px" alt="">
     <img src="https://user-images.githubusercontent.com/97904458/200912394-9ab7bea1-30fa-4a70-a460-d53e759c511c.gif" style="width: 300px;" alt="">
