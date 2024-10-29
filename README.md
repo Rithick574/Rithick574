@@ -6,9 +6,8 @@
 <h3 align="center">Self-taught full-stack developer</h3>
 
 <div align="center">  
-        🌱 I’m currently learning about Python <br>
-        👯 I’m looking to collaborate with other Developers <br>
-        💬 Ask me about MERN, I will try to answer <br>
+        🌱 I’m currently learning about Python,DevOps and Go <br>
+        👯 I’m looking to collaborate on Open Source Projects <br>
         📫 How to reach me: email: rithick.akv@gmail.com <br>
 </div>
 
