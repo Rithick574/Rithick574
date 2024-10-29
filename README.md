@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-    <h2>💰 You can help me by Donating</h2>
+<!--     <h2>💰 You can help me by Donating</h2> -->
     <a href="https://buymeacoffee.com/rithickpanp">
         <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee">
     </a>
