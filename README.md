@@ -1,4 +1,6 @@
- <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" style="width: 100%;">
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=RITHICK&label=Profile%20views&color=0e75b6&style=flat" alt="RITHICK" /> <a href="https://Rithick574.github.io"><img src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://Rithick574.github.io/"/></a> </p>
+ 
+ <img src="./header.png">
 
 <h1 align="center">Hi 👋, I'm RITHICK</h1>
 <h3 align="center">Self-taught full-stack developer</h3>
