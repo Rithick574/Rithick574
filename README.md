@@ -1,154 +1,194 @@
-<h1 align="center">Hi 👋, I'm Rithick</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+[
+ <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" style="width: 100%;">
 
+<h1 align="center">Hi 👋, I'm RITHICK</h1>
+<h3 align="center">Self-taught full-stack developer</h3>
 
+<div align="center">  
+        🌱 I’m currently learning about Python <br>
+        👯 I’m looking to collaborate with other Developers <br>
+        💬 Ask me about MERN, I will try to answer <br>
+        📫 How to reach me: email: rithick.akv@gmail.com <br>
+</div>
 
-<img align="right" style="width:16rem; height:auto" src="logo-removebg-preview.png"/>
-
-- 🌱 I’m currently learning **To be Extroverted**
-
-- 💬 Ask me about **MERN 😆**
-
-- ⚡ Fun fact **Coding is a passion and not profession.**
-
-<br>
-<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" style="width: 300px;margin-right: 60px" alt="">
+    <img src="https://user-images.githubusercontent.com/97904458/200912394-9ab7bea1-30fa-4a70-a460-d53e759c511c.gif" style="width: 300px;" alt="">
+</div>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
-  <img style="width:26rem; height:auto" src="a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif"/>
+    <a href="https://www.linkedin.com/in/rithick-p-678167214/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nahyan9094/" target="_blank" height="30" width="40" />
+    </a>
+    <a href="https://www.instagram.com/rithick______/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/nhyn____/" target="_blank" height="30" width="40" />
+    </a>
+    <a href="https://leetcode.com/u/rithickp/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/nahyanmp4/" target="_blank" height="30" width="40" />
+    </a>
+    <a href="https://x.com/RITHICK____" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="30" width="40" />
+    </a>
 </p>
 
-
-<h3 align="center">Languages</h3>
+<h3 align="center">Languages and Tools:</h3>
 <p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"
-      alt="c"/>
-  </a>
-  <a href="https://www.java.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
-      alt="java"/> 
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
-      alt="javascript"/> 
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
-      alt="html5"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
-      alt="css3"/>
-  </a>
-  
-  <a href="https://www.typescriptlang.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"
-      alt="typescript"/>
-  </a>
+    <p align="center"> 
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" /> </a> 
+        <span style="margin-right: 20px;"></span>
+        <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" /> </a> 
+        <span style="margin-right: 20px;"></span>
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+            <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+        </a>
+        <span style="margin-right: 20px;"></span>
+        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" /> </a> 
+        <span style="margin-right: 20px;"></span>  
+        <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
+            <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
+        </a>
+        <span style="margin-right: 20px;"></span>
+        <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+            <img src="https://img.shields.io/badge/express.js-%23404D59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
+        </a>   
+     <br><br>
+        <span style="margin-right: 20px;"></span>
+        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+            <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+        </a>      
+        <span style="margin-right: 20px;"></span>      
+        <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/> </a> 
+        <span style="margin-right: 20px;"></span>      
+        <a href="#" target="_blank" rel="noreferrer">
+            <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT" />
+        </a>
+        <span style="margin-right: 20px;"></span> 
+        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="c" /> </a>                     
+        <span style="margin-right: 20px;"></span>
+        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /> </a> 
+        <br><br>
+     <span style="margin-right: 20px;"></span>
+        <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" /> </a>
+        <span style="margin-right: 20px;"></span>
+        <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws" /> </a>         
+        <span style="margin-right: 20px;"></span>
+        <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+            <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+        </a>
+        <span style="margin-right: 20px;"></span> 
+        <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" alt="chartjs" /> </a>          
+        <span style="margin-right: 20px;"></span>      
+        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+            <img src="https://img.shields.io/badge/MySQL-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+        </a>
+        <span style="margin-right: 20px;"></span>        
+        <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx" /> </a> 
+        <span style="margin-right: 20px;"></span>
+        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/> </a> 
+        <span style="margin-right: 20px;"></span>
+        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" /> </a> 
+    </p>  
 </p>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rithick574&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt=""><br>
+    <img src="https://github-readme-stats.vercel.app/api?username=Rithick574&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rithick574&theme=dark&hide_border=true" alt="">
+</div>
 
-<h3 align="center">Frontend</h3>
+ <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" style="width: 100%;">
+
+<h1 align="center">Hi 👋, I'm NAHYAN</h1>
+<h3 align="center">Self-taught full-stack developer</h3>
+
+<div align="center">  
+        🌱 I’m currently learning about DataStructures <br>
+        👯 I’m looking to collaborate with other Developers <br>
+        💬 Ask me about MERN, I will try to answer <br>
+        📫 How to reach me: email: nahyanmp4@gmail.com <br>
+</div>
+
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" style="width: 300px;margin-right: 60px" alt="">
+    <img src="https://user-images.githubusercontent.com/97904458/200912394-9ab7bea1-30fa-4a70-a460-d53e759c511c.gif" style="width: 300px;" alt="">
+</div>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
-      <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
-      alt="bootstrap"/>
-  </a>
-
-  <a href="https://figma.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/figma-764ABC.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/> 
-  </a> 
-  <a href="https://jquery.com/" target="_blank">
-    <img src="https://img.shields.io/badge/jquery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery"/> 
-  </a>
- 
+    <a href="https://linkedin.com/in/https://www.linkedin.com/in/nahyan9094/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nahyan9094/" target="_blank" height="30" width="40" />
+    </a>
+    <a href="https://instagram.com/https://www.instagram.com/nhyn____/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/nhyn____/" target="_blank" height="30" width="40" />
+    </a>
+    <a href="https://www.leetcode.com/https://leetcode.com/nahyanmp4/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/nahyanmp4/" target="_blank" height="30" width="40" />
+    </a>
 </p>
 
-<h3 align="center">Backend</h3>
+<h3 align="center">Languages and Tools:</h3>
 <p align="center">
-  <a href="https://www.nginx.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white" 
-      alt="nginx"/> 
-  </a> 
+    <p align="center"> 
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" /> </a> 
+        <span style="margin-right: 20px;"></span>
+        <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" /> </a> 
+        <span style="margin-right: 20px;"></span>
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+            <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+        </a>
+        <span style="margin-right: 20px;"></span>
+        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" /> </a> 
+        <span style="margin-right: 20px;"></span>  
+        <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
+            <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
+        </a>
+        <span style="margin-right: 20px;"></span>
+        <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+            <img src="https://img.shields.io/badge/express.js-%23404D59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
+        </a>   
+     <br><br>
+        <span style="margin-right: 20px;"></span>
+        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+            <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+        </a>      
+        <span style="margin-right: 20px;"></span>      
+        <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/> </a> 
+        <span style="margin-right: 20px;"></span>      
+        <a href="#" target="_blank" rel="noreferrer">
+            <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT" />
+        </a>
+        <span style="margin-right: 20px;"></span> 
+        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="c" /> </a>                     
+        <span style="margin-right: 20px;"></span>
+        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /> </a> 
+        <br><br>
+     <span style="margin-right: 20px;"></span>
+        <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" /> </a>
+        <span style="margin-right: 20px;"></span>
+        <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws" /> </a>         
+        <span style="margin-right: 20px;"></span>
+        <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+            <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+        </a>
+        <span style="margin-right: 20px;"></span> 
+        <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" alt="chartjs" /> </a>          
+        <span style="margin-right: 20px;"></span>      
+        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+            <img src="https://img.shields.io/badge/MySQL-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+        </a>
+        <span style="margin-right: 20px;"></span>        
+        <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx" /> </a> 
+        <span style="margin-right: 20px;"></span>
+        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/> </a> 
+        <span style="margin-right: 20px;"></span>
+        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" /> </a> 
+    </p>  
 </p>
-
-<h3 align="center">Database</h3>
-<p align="center">
-  <a href="https://www.postgresql.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/postgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"
-      alt="postgresql"/> 
-  </a>
-  <a href="https://www.microsoft.com/en-in/sql-server/sql-server-downloads" target="_blank"> 
-    <img src="https://img.shields.io/badge/mssql-DC382D.svg?style=for-the-badge&logo=mssqls&logoColor=white"
-      alt="mssql"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
-      alt="mongodb"/> 
-  </a> 
-</p>
-
-<h3 align="center">Cloud & Hosting:</h3>
-<p align="center">
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://img.shields.io/badge/aws-00C7B7.svg?style=for-the-badge&logo=amazon&logoColor=black" alt="aws"/>
-  </a>
-  <a href="https://cloud.google.com/" target="_blank">
-    <img src="https://img.shields.io/badge/google cloud-00C7B7.svg?style=for-the-badge&logo=googlecloud&logoColor=black" alt="google cloud"/>
-  </a>
-</p>
-
-<h3 align="center">Version Control & CI/CD</h3>
-<p align="center">
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
-      alt="git"/>
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-  </a>
-  <a href="https://gitlab.com/8" target="_blank">
-    <img src="https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"
-      alt="git"/>
-  </a>
-   
-  
-  </a>
-</p>
-
-<h3 align="center">Preferred IDEs  & Tools :</h3>
-<p align="center"> 
-  <a href="https://eclipse.org" target="_blank">
-    <img src="https://img.shields.io/badge/eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" alt="eclipse IDE"/> 
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
-  </a>
-
-  <a href="https://postman.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
-  </a>
-  
-  <a href="https://ubuntu.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
-  </a>
-</p>
-
-----
-  </div>
- 
-
-
-
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahyan0077&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt=""><br>
+    <img src="https://github-readme-stats.vercel.app/api?username=nahyan0077&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nahyan0077&theme=dark&hide_border=true" alt="">
+</div>
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
-
-------
-
-
