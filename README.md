@@ -1,4 +1,4 @@
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=RITHICK&label=Profile%20views&color=0e75b6&style=flat" alt="RITHICK" /> <a href="https://Rithick574.github.io"><img src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://Rithick574.github.io/"/></a> </p>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=RITHICK&label=Profile%20views&color=0e75b6&style=flat" alt="RITHICK" /> <a href="https://Rithick574.github.io"><img src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://portfolio-rithicks-projects-9c5c9304.vercel.app/"/></a> </p>
  
  <img src="./header.png">
 
